@@ -1,10 +1,10 @@
 # DNA-group-project
 
 # Group MEMBERS:
-1) Chyngyz Madymarov
-2) Murok Maratbek kyzy
-3) Aidana Mirlan kyzy
-4) Anvarov Anvarbek
+1) Chyngyz Madymarov - Crystal DNA(the grey and pink)
+2) Murok Maratbek kyzy - All openscad codes, joining parts
+3) Aidana Mirlan kyzy - Red and yellow DNA
+4) Anvarov Anvarbek - Purple DNA
 
 # Description 
 Our project is DNA. We chose this project because we considered it difficult enough for four people. So we have made 4 types of one DNA, more precisely in four different designs. Every kind (design) was made by three people, and one connected them on the Openscad with stands and with an inscription. 
