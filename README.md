@@ -10,7 +10,7 @@
 Our project is DNA. We chose this project because we considered it difficult enough for four people. So we have made 4 types of one DNA, more precisely in four different designs. Every kind (design) was made by three people, and one connected them on the Openscad with stands and with an inscription. 
 
 There is links to the video and thingverse 
-- https://www.thingiverse.com/thing:0/edit
+- https://www.thingiverse.com/thing:4247003
 - https://www.youtube.com/watch?v=gnymgJyqQQI&feature=youtu.be
 
 # Screenshots of the project
